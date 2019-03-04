@@ -1,0 +1,11 @@
+C:\Users\Jamilah\Desktop\MvcInternationalization\Resources\bin\Debug\Resources.dll
+C:\Users\Jamilah\Desktop\MvcInternationalization\Resources\bin\Debug\Resources.pdb
+C:\Users\Jamilah\Desktop\MvcInternationalization\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\Jamilah\Desktop\MvcInternationalization\Resources\obj\Debug\Resources.dll
+C:\Users\Jamilah\Desktop\MvcInternationalization\Resources\obj\Debug\Resources.pdb
+C:\Users\Jamilah\Desktop\MvcInternationalization\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+C:\Users\Jamilah\Desktop\New folder (4)\MvcInternationalization\Resources\bin\Debug\Resources.dll
+C:\Users\Jamilah\Desktop\New folder (4)\MvcInternationalization\Resources\bin\Debug\Resources.pdb
+C:\Users\Jamilah\Desktop\New folder (4)\MvcInternationalization\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\Jamilah\Desktop\New folder (4)\MvcInternationalization\Resources\obj\Debug\Resources.dll
+C:\Users\Jamilah\Desktop\New folder (4)\MvcInternationalization\Resources\obj\Debug\Resources.pdb
